@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm 𝙂𝖆𝖚𝖗𝖆𝖛 𝕻𝖆𝖙𝖎𝖑💻</h1>
+<h1 align="center">Hi 👋, I'm Gaurav Patil</h1>
 <h3 align="center">A passionate Full Stack Developer from India 💻🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil-06&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil-06" /> </p>
@@ -11,13 +11,13 @@
 
 - 🤝 I’m looking for help with **Open to Collaboration**
 
-- 👨‍💻 All of my projects are available at [https://github.com/gauravpatil-06](https://github.com/gauravpatil-06)
+- 👨‍💻 All of my projects are available at [gauravpatil-06](https://github.com/gauravpatil-06)
 
 - 💬 Ask me about **Web & Android Development**
 
 - 📫 How to reach me **[gp949958@gmail.com](mailto:gp949958@gmail.com)**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gaurav-pati06](https://www.linkedin.com/in/gaurav-pati06)
+- 📄 Know about my experiences [gaurav-pati06](https://www.linkedin.com/in/gaurav-pati06)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
