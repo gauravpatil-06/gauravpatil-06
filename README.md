@@ -20,11 +20,89 @@
 - 📄 Know about my experiences [gaurav-pati06](https://www.linkedin.com/in/gaurav-pati06)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaurav-pati06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-pati06" height="30" width="40" /></a>
-<a href="https://fb.com/share/1avqyscxxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="share/1avqyscxxz" height="30" width="40" /></a>
-<a href="https://instagram.com/gaurav_patil__06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gaurav_patil__06" height="30" width="40" /></a>
-</p>
+
+<table style="border-collapse: separate; border-spacing: 14px;">
+  <tr>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://www.linkedin.com/in/gaurav-pati06/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://github.com/gauravpatil-06" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://leetcode.com/u/gauravpatil-06/" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://www.hackerrank.com/profile/gaurav_patil_06" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://www.codechef.com/users/gaurav_patil06" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef_logo.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://codeforces.com/profile/gaurav_patil_06" target="_blank">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://www.geeksforgeeks.org/user/patilgaurav" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/geeksforgeeks/geeksforgeeks-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://stackoverflow.com/users/31494707/gaurav-patil" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/stackoverflow/stackoverflow-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://www.kaggle.com/gauravpatil06" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://x.com/gaurav_patil_06" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://www.instagram.com/gaurav_patil__06" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://www.facebook.com/share/1KUnMZHgzE/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="30">
+      </a>
+    </td>
+
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
+      <a href="https://wa.me/qr/LP3LC33QDLJHM1" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/whatsapp/whatsapp-original.svg" width="30">
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
