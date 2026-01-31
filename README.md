@@ -187,3 +187,42 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="gauravpatil-06" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06&" alt="gauravpatil-06" /></p>
+
+<!-- Visitor Count -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=gauravpatil-06&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil-06" />
+</p>
+
+<!-- GitHub Trophy -->
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=gauravpatil-06&theme=onedark&no-frame=true&row=1&column=6" alt="gauravpatil-06" />
+</p>
+
+<!-- Twitter Follow Badge (ONLY ONE – correct) -->
+<p align="left">
+  <a href="https://twitter.com/gaurav_patil_06" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/gaurav_patil_06?logo=twitter&style=for-the-badge" alt="gaurav_patil_06" />
+  </a>
+</p>
+
+<!-- GitHub Top Languages -->
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&layout=compact"
+       alt="gauravpatil-06" />
+</p>
+
+<!-- GitHub Profile Stats -->
+<p>
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=gauravpatil-06&show_icons=true"
+       alt="gauravpatil-06" />
+</p>
+
+<!-- GitHub Streak Stats -->
+<p>
+  <img align="center"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06"
+       alt="gauravpatil-06" />
+</p>
+
