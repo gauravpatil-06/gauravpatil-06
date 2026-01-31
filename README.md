@@ -28,103 +28,96 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<div align="left" style="
-  display: grid;
-  grid-template-columns: repeat(14, 1fr);
-  gap: 16px;
-  padding: 24px;
-  border: 2px solid #1e90ff;
-  border-radius: 18px;
-  background: rgba(30, 144, 255, 0.04);
-">
+<h3 align="left">Languages and Tools:</h3>
 
-<table>
+<table style="border-collapse: separate; border-spacing: 14px;">
   <tr>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="36">
+    </td>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="36">
     </td>
   </tr>
 
   <tr>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="36">
     </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36"/>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36">
     </td>
   </tr>
 </table>
-
-</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="gauravpatil-06" /></p>
