@@ -73,7 +73,7 @@
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://codeforces.com/profile/gaurav_patil_06" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="36"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="100"/>
       </a>
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
