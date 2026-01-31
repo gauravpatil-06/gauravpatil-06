@@ -28,8 +28,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<h3 align="left">Languages and Tools:</h3>
-
 <table style="border-collapse: separate; border-spacing: 14px;">
   <tr>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
