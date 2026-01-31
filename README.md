@@ -21,55 +21,83 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gaurav-pati06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
-  </a>
+<table style="border-collapse: separate; border-spacing: 14px;">
+  <tr>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://www.linkedin.com/in/gaurav-pati06/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://github.com/gauravpatil-06" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://github.com/gauravpatil-06" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://leetcode.com/u/gauravpatil-06/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://leetcode.com/u/gauravpatil-06/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://www.hackerrank.com/profile/gaurav_patil_06" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://www.hackerrank.com/profile/gaurav_patil_06" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://www.codechef.com/users/gaurav_patil06" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://www.codechef.com/users/gaurav_patil06" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://codeforces.com/profile/gaurav_patil_06" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://codeforces.com/profile/gaurav_patil_06" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://www.geeksforgeeks.org/user/patilgaurav" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://www.geeksforgeeks.org/user/patilgaurav" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="36">
+      </a>
+    </td>
+  </tr>
 
-  <a href="https://stackoverflow.com/users/31494707/gaurav-patil" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="30"/>
-  </a>
+  <tr>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://stackoverflow.com/users/31494707/gaurav-patil" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://www.kaggle.com/gauravpatil06" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://www.kaggle.com/gauravpatil06" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://x.com/gaurav_patil_06" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://x.com/gaurav_patil_06" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://www.instagram.com/gaurav_patil__06" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
-  </a>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://www.instagram.com/gaurav_patil__06" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36">
+      </a>
+    </td>
 
-  <a href="https://www.facebook.com/share/1KUnMZHgzE/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"/>
-  </a>
-</p>
+    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
+      <a href="https://www.facebook.com/share/1KUnMZHgzE/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 
