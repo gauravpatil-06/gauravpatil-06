@@ -25,36 +25,31 @@
   <tr>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.linkedin.com/in/gaurav-pati06/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36">
       </a>
     </td>
-
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://github.com/gauravpatil-06" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="36">
       </a>
     </td>
-
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://x.com/gaurav_patil_06" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="36">
       </a>
     </td>
-
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.instagram.com/gaurav_patil__06" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36">
       </a>
     </td>
-
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.facebook.com/share/1KUnMZHgzE/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"/>
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36">
       </a>
     </td>
   </tr>
 </table>
-
 
 
 <h3 align="left">Languages and Tools:</h3>
