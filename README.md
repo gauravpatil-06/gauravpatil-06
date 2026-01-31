@@ -27,144 +27,136 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-
-<div style="
+<div align="left" style="
   display: flex;
   flex-wrap: wrap;
-  gap: 12px;
+  gap: 14px;
   padding: 20px;
   border: 2px solid #1e90ff;
   border-radius: 16px;
   background: rgba(30, 144, 255, 0.05);
 ">
 
-<!-- ICON BOX STYLE TEMPLATE -->
-<!-- Each icon is wrapped in same styled box -->
+  <!-- ICON BOX TEMPLATE -->
+  <!-- All icons aligned horizontally with equal spacing -->
 
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" width="40"/>
+  </span>
+
+  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+  </span>
+
 </div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" width="40"/>
-</div>
-
-<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
-</div>
-
-</div>
-
-
-</p>
-
-<br/>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="gauravpatil-06" /></p>
 
