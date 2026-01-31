@@ -21,100 +21,56 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<table style="border-collapse: separate; border-spacing: 14px;">
-  <tr>
-    <!-- LinkedIn -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://www.linkedin.com/in/gaurav-pati06/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
-      </a>
-    </td>
+<p align="left">
+  <a href="https://www.linkedin.com/in/gaurav-pati06/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="30"/>
+  </a>
 
-    <!-- GitHub -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://github.com/gauravpatil-06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://github.com/gauravpatil-06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40" height="30"/>
+  </a>
 
-    <!-- LeetCode -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://leetcode.com/u/gauravpatil-06/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/>
-      </a>
-    </td>
+  <a href="https://leetcode.com/u/gauravpatil-06/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="30"/>
+  </a>
 
-    <!-- HackerRank -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://www.hackerrank.com/profile/gaurav_patil_06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://www.hackerrank.com/profile/gaurav_patil_06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="30"/>
+  </a>
 
-    <!-- CodeChef -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://www.codechef.com/users/gaurav_patil06" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/Codechef_logo.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://www.codechef.com/users/gaurav_patil06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" width="40" height="30"/>
+  </a>
 
-    <!-- Codeforces -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://codeforces.com/profile/gaurav_patil_06" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://codeforces.com/profile/gaurav_patil_06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="30"/>
+  </a>
 
-    <!-- GeeksforGeeks -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://www.geeksforgeeks.org/user/patilgaurav" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/geeksforgeeks/geeksforgeeks-original.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://www.geeksforgeeks.org/user/patilgaurav" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="30"/>
+  </a>
 
-    <!-- Stack Overflow -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://stackoverflow.com/users/31494707/gaurav-patil" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://stackoverflow.com/users/31494707/gaurav-patil" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="30"/>
+  </a>
 
-    <!-- Kaggle -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://www.kaggle.com/gauravpatil06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://www.kaggle.com/gauravpatil06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="30"/>
+  </a>
 
-    <!-- Twitter / X -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://x.com/gaurav_patil_06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://x.com/gaurav_patil_06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="30"/>
+  </a>
 
-    <!-- Instagram -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://www.instagram.com/gaurav_patil__06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://www.instagram.com/gaurav_patil__06" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="30"/>
+  </a>
 
-    <!-- Facebook -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://www.facebook.com/share/1KUnMZHgzE/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30"/>
-      </a>
-    </td>
+  <a href="https://www.facebook.com/share/1KUnMZHgzE/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="30"/>
+  </a>
+</p>
 
-    <!-- WhatsApp -->
-    <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:12px;">
-      <a href="https://wa.me/qr/LP3LC33QDLJHM1" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="30"/>
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 <h3 align="left">Languages and Tools:</h3>
