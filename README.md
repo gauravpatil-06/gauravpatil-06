@@ -31,7 +31,7 @@
 
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://github.com/gauravpatil-06" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="36"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/>
       </a>
     </td>
 
