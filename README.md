@@ -38,8 +38,6 @@
   background: rgba(30, 144, 255, 0.04);
 ">
 
-<h3 align="left">Languages and Tools:</h3>
-
 <table>
   <tr>
     <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
@@ -80,9 +78,6 @@
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="36"/>
-    </td>
-    <td align="center" style="border:2px solid #1e90ff;border-radius:16px;padding:14px;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="36"/>
     </td>
   </tr>
 
