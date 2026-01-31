@@ -51,47 +51,49 @@
   </tr>
 </table>
 
+
 <h3 align="left">Coding Profiles:</h3>
 
 <table style="border-collapse: separate; border-spacing: 14px;">
   <tr>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://leetcode.com/u/gauravpatil-06/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="36"/>
+        <img src="https://assets.leetcode.com/static_assets/public/icons/favicon.ico" width="36"/>
       </a>
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.hackerrank.com/profile/gaurav_patil_06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="36"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="36"/>
       </a>
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.codechef.com/users/gaurav_patil06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codechef.svg" width="36"/>
+        <img src="https://upload.wikimedia.org/wikipedia/en/7/7b/Codechef_logo.svg" width="36"/>
       </a>
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://codeforces.com/profile/gaurav_patil_06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="36"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Codeforces_logo.svg" width="36"/>
       </a>
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.geeksforgeeks.org/user/patilgaurav" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/geeksforgeeks.svg" width="36"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="36"/>
       </a>
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://stackoverflow.com/users/31494707/gaurav-patil" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/stackoverflow.svg" width="36"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="36"/>
       </a>
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.kaggle.com/gauravpatil06" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" width="36"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" width="36"/>
       </a>
     </td>
   </tr>
 </table>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
