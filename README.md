@@ -31,99 +31,137 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
-<!-- 1 Java -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<div style="
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  padding: 20px;
+  border: 2px solid #1e90ff;
+  border-radius: 16px;
+  background: rgba(30, 144, 255, 0.05);
+">
 
-<!-- 2 Advanced Java (Java icon) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<!-- ICON BOX STYLE TEMPLATE -->
+<!-- Each icon is wrapped in same styled box -->
 
-<!-- 3 SQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+</div>
 
-<!-- 4 MySQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+</div>
 
-<!-- 5 Git & GitHub -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+</div>
 
-<!-- 6 Android Studio -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+</div>
 
-<!-- 7 HTML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+</div>
 
-<!-- 8 CSS -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+</div>
 
-<!-- 9 MongoDB -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+</div>
 
-<!-- 10 Firebase DB -->
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+</div>
 
-<!-- 11 PHP -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+</div>
 
-<!-- 12 Postman -->
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+</div>
 
-<!-- 13 Maven -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+</div>
 
-<!-- 14 Gradle -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</div>
 
-<!-- 15 VS Code -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40"/>
+</div>
 
-<!-- 16 IntelliJ -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" width="40"/>
+</div>
 
-<!-- 17 Eclipse -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</div>
 
-<!-- 18 XML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="40"/>
+</div>
 
-<!-- 19 JSON -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" width="40"/>
+</div>
 
-<!-- 20 DSA (Algorithm icon) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xml/xml-original.svg" width="40"/>
+</div>
 
-<!-- 21 WordPress -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" width="40"/>
+</div>
 
-<!-- 22 C++ -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/thealgorithms/thealgorithms-original.svg" width="40"/>
+</div>
 
-<!-- 23 C -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40"/>
+</div>
 
-<!-- 24 Volley Library (Android/Java icon) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+</div>
 
-<!-- 25 XAMPP -->
-<img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+</div>
 
-<!-- 26 Figma -->
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="40"/>
+</div>
 
-<!-- 27 Adobe XD -->
-<img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+</div>
 
-<!-- 28 Canva -->
-<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="40"/>
+</div>
 
-<!-- 29 Sublime Text -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
+</div>
 
-<!-- 30 POJO (Java icon) -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" width="40"/>
+</div>
 
-<!-- 31 VB.NET -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+<div style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+</div>
+
+</div>
+
 
 </p>
 
