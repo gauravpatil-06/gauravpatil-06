@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravpatil-06&label=Profile%20views&color=0e75b6&style=flat" alt="gauravpatil-06" /> </p>
 
-- 🔭 I’m currently working on **Gamified Learning Platform for Rural Education**
+- 🔭 I’m currently working on **Full Stack Java Development**
 
-- 🌱 I’m currently learning **React.js, Node.js, AngularJS, Spring Boot, Tailwind CSS, JSP**
+- 🌱 I’m currently learning **Core Java, Advanced Java, Spring, Spring Boot, Hibernate, JSP & Servlets**
 
-- 👯 I’m looking to collaborate on **Full Stack Development**
+- 👯 I’m looking to collaborate on **Full Stack Java Development**
 
-- 🤝 I’m looking for help with **Open to Collaboration**
+- 🤝 I’m open to **collaboration and learning opportunities**
 
 - 👨‍💻 All of my projects are available at [gauravpatil-06](https://github.com/gauravpatil-06)
 
 - 💬 Ask me about **Web & Android Development**
 
-- 📫 How to reach me **[gp949958@gmail.com](mailto:gp949958@gmail.com)**
+- 📫 How to reach me: **[gp949958@gmail.com](mailto:gp949958@gmail.com)**
 
 - 📄 Know about my experiences [gaurav-pati06](https://www.linkedin.com/in/gaurav-pati06)
 
