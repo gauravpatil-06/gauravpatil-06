@@ -68,7 +68,7 @@
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.codechef.com/users/gaurav_patil06" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/codechef/codechef-icon.svg" width="36"/>
+        <img src="https://www.codechef.com/favicon.ico" width="36"/>
       </a>
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
