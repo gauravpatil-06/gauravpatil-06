@@ -25,36 +25,35 @@
   <tr>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.linkedin.com/in/gaurav-pati06/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
       </a>
     </td>
 
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://github.com/gauravpatil-06" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="36"/>
       </a>
     </td>
 
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://x.com/gaurav_patil_06" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" width="36">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="36"/>
       </a>
     </td>
 
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.instagram.com/gaurav_patil__06" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="36">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="36"/>
       </a>
     </td>
 
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <a href="https://www.facebook.com/share/1KUnMZHgzE/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg" width="36">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="36"/>
       </a>
     </td>
   </tr>
-</table>>
-
+</table>
 
 
 <h3 align="left">Languages and Tools:</h3>
