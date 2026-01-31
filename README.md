@@ -141,16 +141,9 @@
   </span>
 
   <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-    <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" width="40"/>
-  </span>
-
-  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
   </span>
 
-  <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublimetext/sublimetext-original.svg" width="40"/>
-  </span>
 
   <span style="border:1.5px solid #1e90ff;border-radius:12px;padding:10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
