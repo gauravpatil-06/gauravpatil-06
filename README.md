@@ -184,6 +184,10 @@
 </table>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="gauravpatil-06" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06&" alt="gauravpatil-06" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06" alt="GitHub Streak" />
+</p>
