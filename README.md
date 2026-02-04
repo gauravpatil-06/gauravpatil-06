@@ -182,11 +182,9 @@
     </td>
   </tr>
 </table>
-## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&layout=compact&theme=radical&cache_seconds=1800)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravpatil-06&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravpatil-06&show_icons=true&theme=radical&cache_seconds=1800)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=gauravpatil-06&theme=radical)
