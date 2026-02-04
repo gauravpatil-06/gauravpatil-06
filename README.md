@@ -182,6 +182,11 @@
     </td>
   </tr>
 </table>
+## 📊 GitHub Stats
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&layout=compact)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravpatil-06&show_icons=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06)
+
