@@ -179,8 +179,8 @@
     </td>
     <td align="center" style="border:2px solid #1e90ff;border-radius:18px;padding:14px;">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="36">
-      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="gauravpatil-06" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06" alt="gauravpatil-06" /></p>
     </td>
   </tr>
 </table>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="gauravpatil-06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06" alt="gauravpatil-06" /></p>
