@@ -182,7 +182,5 @@
     </td>
   </tr>
 </table>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="gauravpatil-06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06" alt="gauravpatil-06" /></p>
