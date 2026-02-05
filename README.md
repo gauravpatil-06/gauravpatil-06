@@ -182,7 +182,5 @@
     </td>
   </tr>
 </table>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&layout=compact" width="300" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06" width="300" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravpatil-06&show_icons=true&locale=en&layout=compact" alt="gauravpatil-06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gauravpatil-06" alt="gauravpatil-06" /></p>
